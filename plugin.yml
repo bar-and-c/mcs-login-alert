@@ -1,3 +1,5 @@
 name: LoginAlert
 main: io.github.barandc.loginalert.LoginAlert
 version: 1.0
+description: >
+             The purpose of this plugin is to provide notification when there are users logged in to a server (via sound, LED, or whatever). 
